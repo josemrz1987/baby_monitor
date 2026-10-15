@@ -1,0 +1,10 @@
+# Credenciales y secretos
+.env
+
+# Entornos virtuales de Python
+venv/
+Mineria/
+__pycache__/
+
+# Archivos de vídeo temporales de prueba
+*.mp4
